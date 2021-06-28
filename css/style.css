@@ -1,0 +1,13 @@
+h1 {color: #00f;
+text-align: center;
+}
+h2  { color: #0000ff;
+font-style: italic;
+text-align: center;
+}
+p  {
+    font-family: sans-serif;
+}
+ol  {
+    line-height: 40px;
+}
